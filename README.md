@@ -1,4 +1,5 @@
-# 👋 ¡Hola, soy Fran!
+# 👋 ¡Hola, soy Fran!  
+<img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f44b/512.gif" width="40px">
 
 🎓 Estudiante de Diseño de Aplicaciones Multiplataforma, apasionado por la tecnología y el desarrollo de software.
 
